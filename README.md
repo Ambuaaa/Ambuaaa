@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Competitive Programming<br><br><br>C++<br>Nothing lol<br>I can sing in both male and female voices
+Just exploring the field in whcih i know nothing !
 
 
 ## 🌐 Socials:
