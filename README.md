@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Just exploring the field in whcih i know nothing !
+Just exploring the field in which i know nothing !
 
 
 ## 🌐 Socials:
